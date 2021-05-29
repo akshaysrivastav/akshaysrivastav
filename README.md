@@ -2,7 +2,7 @@
 <h3 align="center">A developer from India building Web3 stuff!!</h3>
 
 
-- 🔭 I’m currently working with [OpenDAO](opendao.io)
+- 🔭 I’m currently working with [OpenDAO](https://opendao.io)
 
 - 💬 Ask me about **Blockchain, Ethereum, DeFi and Web3**
 
