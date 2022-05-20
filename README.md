@@ -2,11 +2,11 @@
 <h3 align="center">A developer from India building Web3 stuff!!</h3>
 
 
-- 🔭 I’m currently working with [OpenDAO](https://opendao.io)
+- 🔭 I spend most of my time in developing Ethereum Smart Contracts, Auditing Smart Contracts and building MEV bots.
 
-- 💬 Ask me about **Blockchain, Ethereum, DeFi and Web3**
+- 💬 Ask me about **Blockchain, Ethereum, DeFi and Web3**.
 
-- 📫 How to reach me **srivs.akshay@gmail.com**
+- 📫 Reach out to me at **srivs.akshay@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
